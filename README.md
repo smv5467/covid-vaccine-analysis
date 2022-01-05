@@ -3,6 +3,8 @@ Analysis of international COVID data from Our World in Data.
 
 I analyzed COVID data over time to determine the effectiveness of vaccines against COVID case and death rates in varying countries. 
 
+![image](https://user-images.githubusercontent.com/78241340/148157577-7bd8414a-fcf6-46da-bf10-68888911a10e.png)
+
 
 # Setup
 

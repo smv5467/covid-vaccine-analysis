@@ -1,4 +1,4 @@
-# Covid Vaccine Analysis 🦠 
+# COVID Vaccine Analysis 🦠 
 Analysis of international COVID data from Our World in Data.
 
 Looks at COVID data over time to determine the effectiveness of vaccines against COVID case and death rates in varying countries. 
